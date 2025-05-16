@@ -1,0 +1,1 @@
+export const DEFAULT_BASE_CURRENCY_CODE = 'USD'
